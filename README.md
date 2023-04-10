@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achref</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
-<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"alt="image description" align="right" width="400px">
+<img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"alt="image description" align="center" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benhadjyahia&label=Profile%20views&color=0e75b6&style=flat" alt="benhadjyahia" /> </p>
 
